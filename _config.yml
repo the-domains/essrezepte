@@ -1,6 +1,6 @@
 name: essrezepte
 favicon: null
-layout_spectrum: 0.11751
+layout_spectrum: 0.4547
 typography_spectrum: 0.54913
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#79726c'
     - '#713721'
     - '#3c5c10'
-  brandStrength: 0.0625
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
