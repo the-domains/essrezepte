@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T18:51:40.163Z'
-dateModified: '2016-02-29T18:50:05.425Z'
+datePublished: '2016-02-29T20:52:01.364Z'
+dateModified: '2016-02-29T18:51:48.686Z'
 title: Versunkener Apfelkuchen
 author: []
+sourcePath: _posts/2016-02-29-versunkener-apfelkuchen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-versunkener-apfelkuchen.md
-published: true
 url: versunkener-apfelkuchen/index.html
 _type: Article
 
