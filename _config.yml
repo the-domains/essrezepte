@@ -2,6 +2,7 @@ name: essrezepte
 favicon: null
 layout_spectrum: 0.47206
 typography_spectrum: 0.37765
+title: Essrezepte
 cta:
   domain: null
   bucket: null
