@@ -1,6 +1,6 @@
 name: essrezepte
 favicon: null
-layout_spectrum: 0.47206
+layout_spectrum: 0.6734
 typography_spectrum: 0.37765
 title: Essrezepte
 cta:
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#020204'
-    - '#810318'
-    - '#4f6e8b'
-    - '#a7a491'
+    - '#b0a7a0'
+    - '#5c5a5d'
+    - '#050505'
+    - '#89807b'
   brandStrength: 0
   lightness: 0
   saturation: 0
