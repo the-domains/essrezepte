@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T08:21:11.480Z'
-dateModified: '2016-03-04T11:23:13.544Z'
+description: Süsses
+datePublished: '2016-03-08T15:28:06.757Z'
+dateModified: '2016-03-08T08:21:20.926Z'
 title: Versunkener Apfelkuchen
 author: []
 sourcePath: _posts/2016-02-29-versunkener-apfelkuchen.md
