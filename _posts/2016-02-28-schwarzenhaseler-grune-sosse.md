@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T08:21:56.963Z'
-dateModified: '2016-03-04T11:25:34.147Z'
+description: Vegetarisches
+datePublished: '2016-03-08T08:24:03.572Z'
+dateModified: '2016-03-08T08:22:06.522Z'
 title: Schwarzenhaseler Grüne Sosse
 author: []
 sourcePath: _posts/2016-02-28-schwarzenhaseler-grune-sosse.md
