@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T21:07:07.985Z'
-dateModified: '2016-02-29T21:06:49.436Z'
+datePublished: '2016-03-08T08:23:14.120Z'
+dateModified: '2016-02-29T21:07:16.322Z'
 title: Spaghetti Vongole
 author: []
+sourcePath: _posts/2016-02-29-spaghetti-vongole.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-spaghetti-vongole.md
-published: true
 url: spaghetti-vongole/index.html
 _type: Article
 
