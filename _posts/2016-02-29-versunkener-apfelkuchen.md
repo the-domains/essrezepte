@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T11:23:04.983Z'
-dateModified: '2016-03-04T11:22:23.990Z'
+datePublished: '2016-03-08T08:21:11.480Z'
+dateModified: '2016-03-04T11:23:13.544Z'
 title: Versunkener Apfelkuchen
 author: []
 sourcePath: _posts/2016-02-29-versunkener-apfelkuchen.md
@@ -33,4 +33,10 @@ _type: Article
 
 1\. Margarine, Zucker und Eier in einer Schüssel zu einer Masse verrühren. Mehl und Backpulver hinzugeben und alles zu einem ebenen Teig verrühren. 
 
-2\. Eine Springform einfetten und den Teig darin gleichmäßig verteilen. Äpfel schälen, vierteln, das Gehäuse rausschneiden und mit einem Messer einritzen. Die Äpfel auf den Teig legen. Den Kuchen bei 160 Grad 45 Minuten backen. Der Kuchen ist gar, wenn man mit dem Messer rein sticht und kein Teig mehr daran kleben bleibt. Den Kuchen etwas abkühlen lassen und mit etwas Puderzucker bestreuen.
+2\. Eine Springform einfetten und den Teig darin gleichmäßig verteilen. 
+
+3\. Äpfel schälen, vierteln, das Gehäuse rausschneiden und mit einem Messer einritzen. Die Äpfel auf den Teig legen. 
+
+4\. Den Kuchen bei 160 Grad 45 Minuten backen. Der Kuchen ist gar, wenn man mit dem Messer rein sticht und kein Teig mehr daran kleben bleibt. 
+
+5\. Den Kuchen etwas abkühlen lassen und mit etwas Puderzucker bestreuen.
