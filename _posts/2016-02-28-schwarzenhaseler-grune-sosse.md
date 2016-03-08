@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T19:42:53.669Z'
-dateModified: '2016-02-28T19:42:53.292Z'
+datePublished: '2016-03-08T08:21:56.963Z'
+dateModified: '2016-03-04T11:25:34.147Z'
 title: Schwarzenhaseler Grüne Sosse
 author: []
+sourcePath: _posts/2016-02-28-schwarzenhaseler-grune-sosse.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-28-schwarzenhaseler-grune-sosse.md
-published: true
 url: schwarzenhaseler-grune-sosse/index.html
 _type: Article
 
@@ -26,14 +26,17 @@ _type: Article
 
 für 3-4 Personen 
 
-Zutaten:
+**Zutaten**
 
 200 g Quark, 200 g Schmand (Saurer Halbrahm), 100 ml Milch, Zitrone, 3 Eier, 1 Bund Schnittlauch, 1 Bund Dill, 1 Bund Petersilie, Salz, Zucker, Kartoffeln 
 
-Zubereitung:
+**Zubereitung**
 
-Mische in einer Schüssel Quark und Schmand und füge Milch hinzu bis die Sauce zähflüssig ist. 
-Gebe eine Prise Salz, Zucker sowie etwas Zitronensaft hinzu.
-Schneide je 10-15 g Schnittlauch, Dill und Petersilie klein und mische sie unter die Sauce.
-Koche 3 Eier hart, lass sie abkühlen, schneide sie in mundgerechte Stücke und füge sie ebenfalls der Sauce hinzu.
-Serviere die Grüne Sauce kalt zu heissen (Pell-) Kartoffeln.
+1\. Mische in einer Schüssel Quark und Schmand und füge Milch hinzu bis die Sauce zähflüssig ist. 
+Gebe eine Prise Salz, Zucker sowie etwas Zitronensaft hinzu. 
+
+2\. Schneide je 10-15 g Schnittlauch, Dill und Petersilie klein und mische sie unter die Sauce. 
+
+3\. Koche 3 Eier hart, lass sie abkühlen, schneide sie in mundgerechte Stücke und füge sie ebenfalls der Sauce hinzu. 
+
+4\. Serviere die Grüne Sauce kalt zu heissen (Pell-) Kartoffeln.
