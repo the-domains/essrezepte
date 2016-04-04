@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: für 4 Personen
-datePublished: '2016-04-04T19:31:02.759Z'
-dateModified: '2016-04-04T19:30:46.634Z'
+datePublished: '2016-04-04T19:36:39.389Z'
+dateModified: '2016-04-04T19:35:40.358Z'
 title: The Bolley Burger
 author: []
 sourcePath: _posts/2016-04-04-the-bolley-burger.md
