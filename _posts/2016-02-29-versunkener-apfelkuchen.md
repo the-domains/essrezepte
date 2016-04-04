@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Süsses
-datePublished: '2016-03-08T15:28:06.757Z'
-dateModified: '2016-03-08T08:21:20.926Z'
+description: Zutaten
+datePublished: '2016-04-04T18:33:51.058Z'
+dateModified: '2016-03-08T15:28:30.957Z'
 title: Versunkener Apfelkuchen
 author: []
 sourcePath: _posts/2016-02-29-versunkener-apfelkuchen.md
