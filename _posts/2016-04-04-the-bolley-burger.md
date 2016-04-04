@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: für 4 Personen
-datePublished: '2016-04-04T18:44:54.220Z'
-dateModified: '2016-04-04T18:44:34.981Z'
+datePublished: '2016-04-04T19:31:02.759Z'
+dateModified: '2016-04-04T19:30:46.634Z'
 title: The Bolley Burger
 author: []
 sourcePath: _posts/2016-04-04-the-bolley-burger.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-bolley-burger/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba032f94-cd3c-4248-a0e7-814cc53e06a2.jpg)
