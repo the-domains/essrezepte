@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: für 4 Personen als Vorspeise
-datePublished: '2016-04-04T13:41:51.019Z'
-dateModified: '2016-04-04T13:41:37.012Z'
+datePublished: '2016-04-04T13:46:55.733Z'
+dateModified: '2016-04-04T13:46:51.845Z'
 title: Randen/Rote Beete mit Meerrettich Dip
 author: []
 sourcePath: _posts/2016-04-04-randenrote-beete-mit-meerrettich-dip.md
@@ -39,4 +39,3 @@ für 4 Personen als Vorspeise
 2\. In der Zwischenzeit in einer Schüssel Quark, Milch, Meerrettich, Zitrone und Senf vermischen. 
 
 3\. Den Apfel schälen, Gehäuse ausschneiden und vierteln. Einen halben Apfel mit einer Reibe fein zerkleinern und dazugeben. Zum Schluss den Schnittlauch klein schneiden und dazugeben.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f362950-50ee-49df-92f3-896f8e9f454a.jpg)
