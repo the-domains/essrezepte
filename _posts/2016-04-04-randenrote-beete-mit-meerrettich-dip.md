@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: für 4 Personen als Vorspeise
-datePublished: '2016-04-04T13:41:08.045Z'
-dateModified: '2016-04-04T13:40:32.590Z'
+datePublished: '2016-04-04T13:41:28.533Z'
+dateModified: '2016-04-04T13:41:15.558Z'
 title: Randen/Rote Beete mit Meerrettich Dip
 author: []
+sourcePath: _posts/2016-04-04-randenrote-beete-mit-meerrettich-dip.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-randenrote-beete-mit-meerrettich-dip.md
-published: true
 url: randenrote-beete-mit-meerrettich-dip/index.html
 _type: Article
 
