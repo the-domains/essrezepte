@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Zutaten
-datePublished: '2016-04-04T18:30:40.903Z'
-dateModified: '2016-04-04T18:30:31.659Z'
+datePublished: '2016-04-12T13:03:43.086Z'
+dateModified: '2016-04-12T13:03:28.926Z'
 title: Grillfisch in der Folie
 author: []
 authors: []
