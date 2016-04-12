@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 13:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 13:17:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chili Tortilla]]></title>
@@ -15,10 +15,9 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>hallo</p>]]></description>
-            <link>https://thegrid.ai/essrezepte/hallo/index.html</link>
-            <guid isPermaLink="false">04d19d5e-ef15-4c49-8234-097d07b38ae8</guid>
-            <pubDate>Tue, 12 Apr 2016 13:15:24 GMT</pubDate>
+            <link>https://thegrid.ai/essrezepte/6e8df910-3a00-4ba3-98ac-5f081b5a995e/index.html</link>
+            <guid isPermaLink="false">6e8df910-3a00-4ba3-98ac-5f081b5a995e</guid>
+            <pubDate>Tue, 12 Apr 2016 13:16:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
