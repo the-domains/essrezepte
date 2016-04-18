@@ -4,14 +4,21 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 18:06:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chocolate Cookies]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a0294-0eca-40de-9603-b80400a98bc4.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
+            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
+            <pubDate>Mon, 18 Apr 2016 18:06:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schwarzenhaseler Grüne Sosse]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a98b3a-5fb1-4d5e-8b4a-95dab1d7fe19.jpg">]]></description>
             <link>https://thegrid.ai/essrezepte/schwarzenhaseler-grune-sosse/index.html</link>
             <guid isPermaLink="false">54102527-7025-4e17-9d09-c8437a7e0828</guid>
-            <pubDate>Mon, 18 Apr 2016 18:04:58 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 18:05:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hefekuchen mit Johannisbeeren]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/randenrote-beete-mit-meerrettich-dip/index.html</link>
             <guid isPermaLink="false">c8d4c72c-bf01-4887-82d8-ced6145ba6ad</guid>
             <pubDate>Mon, 18 Apr 2016 17:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chocolate Cookies]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a0294-0eca-40de-9603-b80400a98bc4.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
-            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
-            <pubDate>Mon, 18 Apr 2016 17:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
