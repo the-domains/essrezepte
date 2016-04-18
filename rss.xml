@@ -4,8 +4,15 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 17:44:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Randen/Rote Beete mit Meerrettich Dip]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff33f9a5-a441-4500-bcab-675729a1d2e3.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/randenrote-beete-mit-meerrettich-dip/index.html</link>
+            <guid isPermaLink="false">c8d4c72c-bf01-4887-82d8-ced6145ba6ad</guid>
+            <pubDate>Mon, 18 Apr 2016 17:44:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chili Tortilla]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63924e9a-c6e7-4e94-a387-9d8954350be8.jpg">]]></description>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/essrezepte/ad679132-2433-4f82-ba3e-c6a3d32c53be/index.html</link>
             <guid isPermaLink="false">ad679132-2433-4f82-ba3e-c6a3d32c53be</guid>
             <pubDate>Mon, 04 Apr 2016 18:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Randen/Rote Beete mit Meerrettich Dip]]></title>
-            <description><![CDATA[<p>für 4 Personen als Vorspeise</p>]]></description>
-            <link>https://thegrid.ai/essrezepte/randenrote-beete-mit-meerrettich-dip/index.html</link>
-            <guid isPermaLink="false">c8d4c72c-bf01-4887-82d8-ced6145ba6ad</guid>
-            <pubDate>Mon, 04 Apr 2016 13:46:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
