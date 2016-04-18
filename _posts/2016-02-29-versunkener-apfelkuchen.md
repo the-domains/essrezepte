@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Zutaten
-datePublished: '2016-04-18T17:42:52.819Z'
-dateModified: '2016-04-18T17:42:50.015Z'
+description: '125 g Margarine, 125 g Zucker, 3 Eier, 200 g Mehl, 2 EL Backpulver, 4 Äpfel, Puderzucker '
+datePublished: '2016-04-18T18:00:36.308Z'
+dateModified: '2016-04-18T18:00:30.350Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-29-versunkener-apfelkuchen.md
@@ -22,8 +22,6 @@ url: versunkener-apfelkuchen/index.html
 _type: Article
 
 ---
-**Zutaten**
-
 125 g Margarine, 125 g Zucker, 3 Eier, 200 g Mehl, 2 EL Backpulver, 4 Äpfel, Puderzucker
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6983ba5f-1e21-4649-9549-c21d16cf4c45.jpg)
 
