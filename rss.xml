@@ -4,8 +4,15 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 17:45:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chocolate Cookies]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a0294-0eca-40de-9603-b80400a98bc4.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
+            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
+            <pubDate>Mon, 18 Apr 2016 17:44:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Randen/Rote Beete mit Meerrettich Dip]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff33f9a5-a441-4500-bcab-675729a1d2e3.jpg">]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
             <guid isPermaLink="false">21b6bb30-79b9-40e3-8690-87c17d57132e</guid>
             <pubDate>Tue, 12 Apr 2016 13:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chocolate Cookies]]></title>
-            <description><![CDATA[<p>Zutaten</p>]]></description>
-            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
-            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
-            <pubDate>Mon, 04 Apr 2016 18:34:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spaghetti Vongole]]></title>
