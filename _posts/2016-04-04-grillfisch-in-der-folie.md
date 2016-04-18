@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Zutaten
-datePublished: '2016-04-12T13:03:43.086Z'
-dateModified: '2016-04-12T13:03:28.926Z'
-title: Grillfisch in der Folie
+datePublished: '2016-04-18T17:46:53.527Z'
+dateModified: '2016-04-18T17:46:50.534Z'
+title: ''
 author: []
+sourcePath: _posts/2016-04-04-grillfisch-in-der-folie.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-grillfisch-in-der-folie.md
-published: true
 url: grillfisch-in-der-folie/index.html
 _type: Article
 
