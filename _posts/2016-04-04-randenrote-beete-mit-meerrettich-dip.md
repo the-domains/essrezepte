@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: für 4 Personen als Vorspeise
-datePublished: '2016-04-04T13:46:55.733Z'
-dateModified: '2016-04-04T13:46:51.845Z'
-title: Randen/Rote Beete mit Meerrettich Dip
+datePublished: '2016-04-18T17:44:17.701Z'
+dateModified: '2016-04-18T17:44:15.918Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-04-randenrote-beete-mit-meerrettich-dip.md
 published: true
@@ -25,8 +25,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff33f9a5-a441-4500-bcab-675729a1d2e3.jpg)
 
 für 4 Personen als Vorspeise
-
-**Zutaten**
 
 500 gr Randen/Rote Beete, 200 g Quark, 50 ml Milch, 1 TL Meerrettich, 1 Apfel, 1 TL Zitrone, 1 TL süsser Senf, 1 Bund Schnittlauch, Salz, Pfeffer, Öl
 
