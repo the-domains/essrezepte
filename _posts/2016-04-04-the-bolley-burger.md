@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: für 4 Personen
-datePublished: '2016-04-18T17:58:46.648Z'
-dateModified: '2016-04-18T17:58:32.203Z'
+datePublished: '2016-04-18T18:06:55.675Z'
+dateModified: '2016-04-18T18:06:53.014Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-the-bolley-burger.md
@@ -22,11 +22,10 @@ url: the-bolley-burger/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba032f94-cd3c-4248-a0e7-814cc53e06a2.jpg)
-
 für 4 Personen
 
 800 gr Hackfleisch, 1 Ei, 4 EL Semmelbrösel, 4 Brötchen, 1 Tomate, frische Basilikumblätter, 4 Scheiben Käse nach Wahl, 4 Salatblätter, 4 Zucchini, Salz, Pfeffer
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba032f94-cd3c-4248-a0e7-814cc53e06a2.jpg)
 
 ****
 
