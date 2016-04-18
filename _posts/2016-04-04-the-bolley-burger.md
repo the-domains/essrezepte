@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: für 4 Personen
-datePublished: '2016-04-12T13:03:06.826Z'
-dateModified: '2016-04-04T19:36:48.681Z'
-title: The Bolley Burger
+datePublished: '2016-04-18T17:47:30.343Z'
+dateModified: '2016-04-18T17:47:24.448Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-04-the-bolley-burger.md
 published: true
@@ -28,7 +28,7 @@ für 4 Personen
 
 **Zutaten**
 
-800 gr Hackfleisch, 1 Ei, 4 EL Semmelbrösel,  4 Brötchen, 1 Tomate, frische Basilikumblätter, 4 Scheiben Käse nach Wahl, 4 Salatblätter, 4 Zucchini, Salz, Pfeffer
+800 gr Hackfleisch, 1 Ei, 4 EL Semmelbrösel, 4 Brötchen, 1 Tomate, frische Basilikumblätter, 4 Scheiben Käse nach Wahl, 4 Salatblätter, 4 Zucchini, Salz, Pfeffer
 
 ****
 
