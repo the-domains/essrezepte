@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Vegetarisches
-datePublished: '2016-03-08T08:24:03.572Z'
-dateModified: '2016-03-08T08:22:06.522Z'
-title: Schwarzenhaseler Grüne Sosse
+description: 'für 3-4 Personen '
+datePublished: '2016-04-18T17:42:34.936Z'
+dateModified: '2016-04-18T17:42:29.241Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-28-schwarzenhaseler-grune-sosse.md
 published: true
@@ -32,8 +32,7 @@ für 3-4 Personen
 
 **Zubereitung**
 
-1\. Mische in einer Schüssel Quark und Schmand und füge Milch hinzu bis die Sauce zähflüssig ist. 
-Gebe eine Prise Salz, Zucker sowie etwas Zitronensaft hinzu. 
+1\. Mische in einer Schüssel Quark und Schmand und füge Milch hinzu bis die Sauce zähflüssig ist. Gebe eine Prise Salz, Zucker sowie etwas Zitronensaft hinzu. 
 
 2\. Schneide je 10-15 g Schnittlauch, Dill und Petersilie klein und mische sie unter die Sauce. 
 
