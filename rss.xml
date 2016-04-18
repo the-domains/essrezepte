@@ -4,8 +4,15 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 17:58:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bolley Burger]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba032f94-cd3c-4248-a0e7-814cc53e06a2.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
+            <guid isPermaLink="false">21b6bb30-79b9-40e3-8690-87c17d57132e</guid>
+            <pubDate>Mon, 18 Apr 2016 17:58:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8534c26b-3a9f-42d1-9443-ed1af009bddc.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/essrezepte/341a6bf9-f024-46d8-b6ed-634b7ea9615d/index.html</link>
             <guid isPermaLink="false">341a6bf9-f024-46d8-b6ed-634b7ea9615d</guid>
             <pubDate>Mon, 18 Apr 2016 17:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bolley Burger]]></title>
-            <description><![CDATA[<p>für 4 Personen</p>]]></description>
-            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
-            <guid isPermaLink="false">21b6bb30-79b9-40e3-8690-87c17d57132e</guid>
-            <pubDate>Mon, 18 Apr 2016 17:47:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spaghetti Vongole]]></title>
