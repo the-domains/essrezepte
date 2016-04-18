@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Zutaten
-datePublished: '2016-04-04T18:33:51.058Z'
-dateModified: '2016-03-08T15:28:30.957Z'
-title: Versunkener Apfelkuchen
+datePublished: '2016-04-18T17:42:52.819Z'
+dateModified: '2016-04-18T17:42:50.015Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-29-versunkener-apfelkuchen.md
 published: true
