@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: für 4 Personen als Vorspeise
-datePublished: '2016-04-18T17:44:17.701Z'
-dateModified: '2016-04-18T17:44:15.918Z'
+datePublished: '2016-04-18T17:45:58.081Z'
+dateModified: '2016-04-18T17:45:24.643Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-randenrote-beete-mit-meerrettich-dip.md
