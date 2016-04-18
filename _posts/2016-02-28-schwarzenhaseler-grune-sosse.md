@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'für 3-4 Personen '
-datePublished: '2016-04-18T18:04:58.776Z'
-dateModified: '2016-04-18T17:59:57.698Z'
+datePublished: '2016-04-18T18:05:14.276Z'
+dateModified: '2016-04-18T18:05:11.855Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-28-schwarzenhaseler-grune-sosse.md
@@ -22,11 +22,10 @@ url: schwarzenhaseler-grune-sosse/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a98b3a-5fb1-4d5e-8b4a-95dab1d7fe19.jpg)
-
 für 3-4 Personen 
 
 200 g Quark, 200 g Schmand (Saurer Halbrahm), 100 ml Milch, Zitrone, 3 Eier, 1 Bund Schnittlauch, 1 Bund Dill, 1 Bund Petersilie, Salz, Zucker, Kartoffeln
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a98b3a-5fb1-4d5e-8b4a-95dab1d7fe19.jpg)
 
 **Zubereitung**
 
