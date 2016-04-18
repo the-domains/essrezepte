@@ -4,8 +4,15 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 17:58:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grillfisch in der Folie]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8534c26b-3a9f-42d1-9443-ed1af009bddc.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
+            <guid isPermaLink="false">4d00f187-3e08-441d-8c08-caddffbf712c</guid>
+            <pubDate>Mon, 18 Apr 2016 17:57:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chili Tortilla]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63924e9a-c6e7-4e94-a387-9d8954350be8.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
             <guid isPermaLink="false">21b6bb30-79b9-40e3-8690-87c17d57132e</guid>
             <pubDate>Mon, 18 Apr 2016 17:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grillfisch in der Folie]]></title>
-            <description><![CDATA[<p>Zutaten</p>]]></description>
-            <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
-            <guid isPermaLink="false">4d00f187-3e08-441d-8c08-caddffbf712c</guid>
-            <pubDate>Mon, 18 Apr 2016 17:46:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spaghetti Vongole]]></title>
