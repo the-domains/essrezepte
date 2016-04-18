@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:39:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 17:42:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chili Tortilla]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/341a6bf9-f024-46d8-b6ed-634b7ea9615d/index.html</link>
             <guid isPermaLink="false">341a6bf9-f024-46d8-b6ed-634b7ea9615d</guid>
             <pubDate>Tue, 08 Mar 2016 15:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schwarzenhaseler Grüne Sosse]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a98b3a-5fb1-4d5e-8b4a-95dab1d7fe19.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/schwarzenhaseler-grune-sosse/index.html</link>
+            <guid isPermaLink="false">54102527-7025-4e17-9d09-c8437a7e0828</guid>
+            <pubDate>Mon, 18 Apr 2016 17:42:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/essrezepte/randenrote-beete-mit-meerrettich-dip/index.html</link>
             <guid isPermaLink="false">c8d4c72c-bf01-4887-82d8-ced6145ba6ad</guid>
             <pubDate>Mon, 04 Apr 2016 13:46:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schwarzenhaseler Grüne Sosse]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a98b3a-5fb1-4d5e-8b4a-95dab1d7fe19.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/schwarzenhaseler-grune-sosse/index.html</link>
-            <guid isPermaLink="false">54102527-7025-4e17-9d09-c8437a7e0828</guid>
-            <pubDate>Tue, 08 Mar 2016 08:24:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
