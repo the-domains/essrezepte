@@ -4,8 +4,22 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 18:05:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Schwarzenhaseler Grüne Sosse]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a98b3a-5fb1-4d5e-8b4a-95dab1d7fe19.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/schwarzenhaseler-grune-sosse/index.html</link>
+            <guid isPermaLink="false">54102527-7025-4e17-9d09-c8437a7e0828</guid>
+            <pubDate>Mon, 18 Apr 2016 18:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hefekuchen mit Johannisbeeren]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2d81753-5b38-4271-9e32-d607eafa31a7.JPG">]]></description>
+            <link>https://thegrid.ai/essrezepte/fdbd2081-7687-40b7-8e2c-b202cc1d97b3/index.html</link>
+            <guid isPermaLink="false">fdbd2081-7687-40b7-8e2c-b202cc1d97b3</guid>
+            <pubDate>Mon, 18 Apr 2016 18:04:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bunter Cous Cous mit Mistkratzerli]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d769704b-590f-444e-a2c9-eb44640ef5d3.jpg">]]></description>
@@ -61,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
             <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
             <pubDate>Mon, 18 Apr 2016 17:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schwarzenhaseler Grüne Sosse]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a98b3a-5fb1-4d5e-8b4a-95dab1d7fe19.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/schwarzenhaseler-grune-sosse/index.html</link>
-            <guid isPermaLink="false">54102527-7025-4e17-9d09-c8437a7e0828</guid>
-            <pubDate>Mon, 18 Apr 2016 17:42:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
