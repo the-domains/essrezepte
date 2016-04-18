@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Für 4 Personen
-datePublished: '2016-04-18T17:46:24.439Z'
-dateModified: '2016-04-04T18:34:37.552Z'
-title: Spaghetti Vongole
+datePublished: '2016-04-18T18:02:22.066Z'
+dateModified: '2016-04-18T17:55:16.121Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-29-spaghetti-vongole.md
 published: true
