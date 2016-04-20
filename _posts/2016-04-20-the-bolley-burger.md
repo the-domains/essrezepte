@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T11:34:45.833Z'
-dateModified: '2016-04-20T11:34:37.700Z'
+datePublished: '2016-04-20T11:35:49.545Z'
+dateModified: '2016-04-20T11:34:54.235Z'
 title: The Bolley Burger
 author: []
 sourcePath: _posts/2016-04-20-the-bolley-burger.md
