@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T11:34:29.061Z'
-dateModified: '2016-04-20T11:33:57.094Z'
+datePublished: '2016-04-20T11:34:45.833Z'
+dateModified: '2016-04-20T11:34:37.700Z'
 title: The Bolley Burger
 author: []
+sourcePath: _posts/2016-04-20-the-bolley-burger.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-the-bolley-burger.md
-published: true
 url: the-bolley-burger/index.html
 _type: Article
 
