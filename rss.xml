@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 11:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 11:34:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">4d00f187-3e08-441d-8c08-caddffbf712c</guid>
             <pubDate>Wed, 20 Apr 2016 11:05:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bolley Burger]]></title>
+            <description><![CDATA[<article><h1>The Bolley Burger</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac662ddd-9431-448b-a728-fbadb3bd9998.jpg"></article>]]></description>
+            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
+            <guid isPermaLink="false">db712e08-349d-4750-8fc8-acb70ebf2f87</guid>
+            <pubDate>Wed, 20 Apr 2016 11:34:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Randen/Rote Beete mit Meerrettich Dip]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/versunkener-apfelkuchen/index.html</link>
             <guid isPermaLink="false">9d1eb5bc-a120-477f-be22-01beab001bf7</guid>
             <pubDate>Mon, 18 Apr 2016 18:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chili Tortilla]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63924e9a-c6e7-4e94-a387-9d8954350be8.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/341a6bf9-f024-46d8-b6ed-634b7ea9615d/index.html</link>
-            <guid isPermaLink="false">341a6bf9-f024-46d8-b6ed-634b7ea9615d</guid>
-            <pubDate>Mon, 18 Apr 2016 17:55:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
