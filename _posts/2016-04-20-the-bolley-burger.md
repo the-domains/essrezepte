@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T11:35:49.545Z'
-dateModified: '2016-04-20T11:34:54.235Z'
+datePublished: '2016-04-20T11:38:19.098Z'
+dateModified: '2016-04-20T11:36:49.809Z'
 title: The Bolley Burger
 author: []
 sourcePath: _posts/2016-04-20-the-bolley-burger.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-bolley-burger/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## [The Bolley Burger][0]
