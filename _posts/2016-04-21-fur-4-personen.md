@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Für 4 Personen
-datePublished: '2016-04-21T18:19:33.780Z'
-dateModified: '2016-04-21T18:15:59.820Z'
+datePublished: '2016-04-21T18:20:06.555Z'
+dateModified: '2016-04-21T18:19:41.119Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-fur-4-personen.md
