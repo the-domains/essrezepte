@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Für 4 Personen
-datePublished: '2016-04-21T18:15:55.524Z'
-dateModified: '2016-04-21T18:15:27.325Z'
+datePublished: '2016-04-21T18:19:33.780Z'
+dateModified: '2016-04-21T18:15:59.820Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-fur-4-personen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-fur-4-personen.md
-published: true
 url: fur-4-personen/index.html
 _type: Article
 
