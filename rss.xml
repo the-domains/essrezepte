@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:54:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -61,13 +61,6 @@
             <link>https://thegrid.ai/essrezepte/schwarzenhaseler-grune-sosse/index.html</link>
             <guid isPermaLink="false">54102527-7025-4e17-9d09-c8437a7e0828</guid>
             <pubDate>Mon, 18 Apr 2016 18:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Versunkener Apfelkuchen]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6983ba5f-1e21-4649-9549-c21d16cf4c45.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/versunkener-apfelkuchen/index.html</link>
-            <guid isPermaLink="false">9d1eb5bc-a120-477f-be22-01beab001bf7</guid>
-            <pubDate>Mon, 18 Apr 2016 18:00:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
