@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 11:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:48:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">4d00f187-3e08-441d-8c08-caddffbf712c</guid>
             <pubDate>Wed, 20 Apr 2016 11:05:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bolley Burger]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba032f94-cd3c-4248-a0e7-814cc53e06a2.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
+            <guid isPermaLink="false">21b6bb30-79b9-40e3-8690-87c17d57132e</guid>
+            <pubDate>Thu, 21 Apr 2016 17:47:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Randen/Rote Beete mit Meerrettich Dip]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/essrezepte/spaghetti-vongole/index.html</link>
             <guid isPermaLink="false">bc960ae1-9259-480c-8418-ae3fbab89789</guid>
             <pubDate>Mon, 18 Apr 2016 18:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bolley Burger]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba032f94-cd3c-4248-a0e7-814cc53e06a2.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
-            <guid isPermaLink="false">21b6bb30-79b9-40e3-8690-87c17d57132e</guid>
-            <pubDate>Mon, 18 Apr 2016 18:06:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chocolate Cookies]]></title>
