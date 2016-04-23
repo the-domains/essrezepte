@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: für 3-4 Personen
-datePublished: '2016-04-21T18:07:09.936Z'
-dateModified: '2016-04-21T18:06:51.881Z'
+datePublished: '2016-04-23T19:43:24.797Z'
+dateModified: '2016-04-21T18:07:15.453Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-schwarzenhaseler-grune-sauce.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-schwarzenhaseler-grune-sauce.md
-published: true
 url: schwarzenhaseler-grune-sauce/index.html
 _type: Article
 
