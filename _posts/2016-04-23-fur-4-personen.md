@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: für 4 Personen
-datePublished: '2016-04-23T19:32:26.059Z'
-dateModified: '2016-04-23T19:23:44.221Z'
+datePublished: '2016-04-23T19:33:15.362Z'
+dateModified: '2016-04-23T19:32:33.841Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-fur-4-personen.md
