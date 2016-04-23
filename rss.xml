@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 19:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 19:53:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">4d00f187-3e08-441d-8c08-caddffbf712c</guid>
             <pubDate>Wed, 20 Apr 2016 11:05:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bolley Burger]]></title>
+            <description><![CDATA[<p>für 4 Personen</p>]]></description>
+            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
+            <guid isPermaLink="false">cc2ce7f6-005e-4cde-abdd-a4fe7c891005</guid>
+            <pubDate>Sat, 23 Apr 2016 19:53:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schwarzenhaseler Grüne Sauce]]></title>
