@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: für 4 Personen
-datePublished: '2016-04-23T19:23:35.641Z'
-dateModified: '2016-04-23T19:23:03.700Z'
+datePublished: '2016-04-23T19:32:26.059Z'
+dateModified: '2016-04-23T19:23:44.221Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-23-fur-4-personen.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-fur-4-personen.md
-published: true
 url: fur-4-personen/index.html
 _type: Article
 
