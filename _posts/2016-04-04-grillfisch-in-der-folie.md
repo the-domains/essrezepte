@@ -3,21 +3,19 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: 'Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz, Pfeffer, Alufolie'
-datePublished: '2016-04-20T11:05:17.591Z'
-dateModified: '2016-04-20T11:05:14.319Z'
+description: >-
+  Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind
+  Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz,
+  Pfeffer, Alufolie
+datePublished: '2016-07-11T12:59:19.140Z'
+dateModified: '2016-07-11T12:58:49.371Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-grillfisch-in-der-folie.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: grillfisch-in-der-folie/index.html
 _type: Article
 
