@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'für 4 Personen als Vorspeise '
-datePublished: '2016-04-23T20:00:58.800Z'
-dateModified: '2016-04-23T20:00:28.035Z'
+description: für 4 Personen als Vorspeise
+datePublished: '2016-07-12T09:47:02.065Z'
+dateModified: '2016-04-23T20:01:06.168Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-23-fur-4-personen-als-vorspeise.md
 authors: []
 publisher:
   name: null
@@ -16,8 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-fur-4-personen-als-vorspeise.md
-published: true
 url: fur-4-personen-als-vorspeise/index.html
 _type: Article
 
