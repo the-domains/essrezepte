@@ -4,15 +4,8 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 09:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 09:47:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Versunkener Apfelkuchen]]></title>
-            <description><![CDATA[<p>125 gr Margarine, 125 gr Zucker, 3 Eier, 200 gr Mehl, 2 EL Backpulver, 4 Äpfel, Puderzucker</p>]]></description>
-            <link>https://thegrid.ai/essrezepte/versunkener-apfelkuchen/index.html</link>
-            <guid isPermaLink="false">d1233758-aabd-4185-86b2-0913abf4c54c</guid>
-            <pubDate>Tue, 12 Jul 2016 09:47:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>für 4 Personen als Vorspeise</p>]]></description>
@@ -54,6 +47,13 @@
             <link>https://thegrid.ai/essrezepte/spaghetti-vongole/index.html</link>
             <guid isPermaLink="false">433cbf9c-4cdf-4b92-bf46-4ed73e964ba1</guid>
             <pubDate>Thu, 21 Apr 2016 18:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Versunkener Apfelkuchen]]></title>
+            <description><![CDATA[<p>125 gr Margarine, 125 gr Zucker, 3 Eier, 200 gr Mehl, 2 EL Backpulver, 4 Äpfel, Puderzucker</p>]]></description>
+            <link>https://thegrid.ai/essrezepte/versunkener-apfelkuchen/index.html</link>
+            <guid isPermaLink="false">d1233758-aabd-4185-86b2-0913abf4c54c</guid>
+            <pubDate>Thu, 21 Apr 2016 18:00:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bunter Cous Cous mit Mistkratzerli]]></title>
