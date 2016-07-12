@@ -9,8 +9,8 @@ description: >-
   Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene
   Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g
   Speisestärke, 1 El Puderzucker
-datePublished: '2016-07-12T09:42:47.015Z'
-dateModified: '2016-07-12T09:41:39.366Z'
+datePublished: '2016-07-12T09:43:18.228Z'
+dateModified: '2016-07-12T09:42:54.850Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-11-kasekuchen.md
@@ -21,9 +21,10 @@ url: kasekuchen/index.html
 _type: Article
 
 ---
+1 Mürbeteig (gekauft), 200 g Zucker, 100 g Mehl, 1 Pk. Vanillezucker, 100 ml Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g Speisestärke, 1 El Puderzucker
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7959c685-a1d6-4180-be22-da9a1a56b2c2.jpg)
 
-1 Mürbeteig (gekauft), 200 g Zucker, 100 g Mehl, 1 Pk. Vanillezucker, 100 ml Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g Speisestärke, 1 El Puderzucker
+**Zubereitung**
 
 1\. 100 g Zucker, Mehl, Vanillezucker und Milch mit einem Schneebesen gut verrühren. Die Eigelbe, Quark, Limettenschale und -saft nacheinander gut unterrühren. Sahne unterrühren. 
 
