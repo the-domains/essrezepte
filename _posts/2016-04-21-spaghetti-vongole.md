@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T18:23:39.828Z'
-dateModified: '2016-04-21T18:23:38.953Z'
+datePublished: '2016-07-12T09:52:55.110Z'
+dateModified: '2016-07-12T09:42:04.649Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-21-spaghetti-vongole.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: spaghetti-vongole/index.html
 _type: Article
 
