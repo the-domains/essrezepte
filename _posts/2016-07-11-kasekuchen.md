@@ -9,8 +9,8 @@ description: >-
   Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene
   Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g
   Speisestärke, 1 El Puderzucker
-datePublished: '2016-07-12T09:43:18.228Z'
-dateModified: '2016-07-12T09:42:54.850Z'
+datePublished: '2016-08-03T09:47:48.698Z'
+dateModified: '2016-07-12T09:43:22.407Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-11-kasekuchen.md
