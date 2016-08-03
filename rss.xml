@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 10:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 10:39:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Bolley Burger]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/essrezepte/versunkener-apfelkuchen/index.html</link>
             <guid isPermaLink="false">d1233758-aabd-4185-86b2-0913abf4c54c</guid>
             <pubDate>Tue, 12 Jul 2016 09:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grillfisch in der Folie]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8534c26b-3a9f-42d1-9443-ed1af009bddc.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
-            <guid isPermaLink="false">4d00f187-3e08-441d-8c08-caddffbf712c</guid>
-            <pubDate>Mon, 11 Jul 2016 12:59:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
