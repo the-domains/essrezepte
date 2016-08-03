@@ -8,11 +8,13 @@ description: >-
   Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind
   Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz,
   Pfeffer, Alufolie
-datePublished: '2016-08-03T10:41:47.824Z'
-dateModified: '2016-08-03T10:41:33.963Z'
+datePublished: '2016-08-03T10:43:24.931Z'
+dateModified: '2016-08-03T10:41:50.778Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-03-pro-person-einen-ganzen-ausgenommenen-fisch-sehr-lecker-zum.md
 authors: []
 publisher:
   name: null
@@ -20,8 +22,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: >-
-  _posts/2016-08-03-pro-person-einen-ganzen-ausgenommenen-fisch-sehr-lecker-zum.md
 url: pro-person-einen-ganzen-ausgenommenen-fisch-sehr-lecker-zum/index.html
 _type: Article
 
