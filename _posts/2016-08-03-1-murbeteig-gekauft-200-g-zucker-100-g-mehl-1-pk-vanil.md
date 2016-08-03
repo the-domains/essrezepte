@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://app.thegrid.io/posts/55b3e7e5-0a8a-4e63-b8f9-a40002be3fdd/edit'
 inLanguage: null
 keywords: []
 description: >-
@@ -10,11 +9,12 @@ description: >-
   Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene
   Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g
   Speisestärke, 1 El Puderzucker
-datePublished: '2016-08-03T10:06:56.330Z'
-dateModified: '2016-08-03T10:06:38.026Z'
+datePublished: '2016-08-03T10:27:51.941Z'
+dateModified: '2016-08-03T10:27:43.168Z'
 author: []
 title: ''
 via: {}
+sourcePath: _posts/2016-08-03-1-murbeteig-gekauft-200-g-zucker-100-g-mehl-1-pk-vanil.md
 authors: []
 publisher:
   name: app.thegrid.io
@@ -22,7 +22,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-03-1-murbeteig-gekauft-200-g-zucker-100-g-mehl-1-pk-vanil.md
+url: kasekuchen/index.html
 _context: 'http://schema.org'
 _type: Article
 
