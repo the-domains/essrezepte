@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-03T10:33:54.343Z'
-dateModified: '2016-08-03T10:31:43.226Z'
+datePublished: '2016-08-03T10:36:42.969Z'
+dateModified: '2016-08-03T10:33:59.018Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-03-the-bolley-burger.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-03-the-bolley-burger.md
 url: the-bolley-burger/index.html
 _type: Article
 
