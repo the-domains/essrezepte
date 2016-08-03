@@ -4,21 +4,28 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 10:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 10:33:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Käsekuchen]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b45cc07144ce6037848661233b6c1b7/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7959c685-a1d6-4180-be22-da9a1a56b2c2.jpg&width=600">]]></description>
-            <link>https://thegrid.ai/essrezepte/kasekuchen/index.html</link>
-            <guid isPermaLink="false">9b26f9dc-904f-4b1d-9559-680e373beba0</guid>
-            <pubDate>Wed, 03 Aug 2016 10:27:51 GMT</pubDate>
+            <title><![CDATA[The Bolley Burger]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5682b9b-f272-4d44-8c6b-283de98297e7.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
+            <guid isPermaLink="false">350d7515-413e-4d86-9466-d290521d6417</guid>
+            <pubDate>Wed, 03 Aug 2016 10:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Käsekuchen]]></title>
             <description><![CDATA[<p>1 Mürbeteig (gekauft), 200 g Zucker, 100 g Mehl, 1 Pk. Vanillezucker, 100 ml Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g Speisestärke, 1 El Puderzucker</p>]]></description>
             <link>https://thegrid.ai/essrezepte/kasekuchen/index.html</link>
             <guid isPermaLink="false">55b3e7e5-0a8a-4e63-b8f9-a40002be3fdd</guid>
-            <pubDate>Wed, 03 Aug 2016 10:18:34 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 10:29:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Käsekuchen]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b45cc07144ce6037848661233b6c1b7/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7959c685-a1d6-4180-be22-da9a1a56b2c2.jpg&width=600">]]></description>
+            <link>https://thegrid.ai/essrezepte/kasekuchen/index.html</link>
+            <guid isPermaLink="false">9b26f9dc-904f-4b1d-9559-680e373beba0</guid>
+            <pubDate>Wed, 03 Aug 2016 10:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spaghetti Vongole]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">4d00f187-3e08-441d-8c08-caddffbf712c</guid>
             <pubDate>Mon, 11 Jul 2016 12:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bunter Cous Cous mit Mistkratzerli]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d769704b-590f-444e-a2c9-eb44640ef5d3.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/ad679132-2433-4f82-ba3e-c6a3d32c53be/index.html</link>
-            <guid isPermaLink="false">ad679132-2433-4f82-ba3e-c6a3d32c53be</guid>
-            <pubDate>Mon, 18 Apr 2016 18:24:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
