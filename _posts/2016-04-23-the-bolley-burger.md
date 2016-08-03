@@ -5,19 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: für 4 Personen
-datePublished: '2016-04-23T19:53:04.468Z'
-dateModified: '2016-04-23T19:53:01.394Z'
+datePublished: '2016-08-03T09:53:49.418Z'
+dateModified: '2016-07-11T13:00:52.188Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 sourcePath: _posts/2016-04-23-the-bolley-burger.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: the-bolley-burger/index.html
 _type: Article
 
