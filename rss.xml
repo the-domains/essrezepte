@@ -4,8 +4,15 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 09:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 09:53:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bolley Burger]]></title>
+            <description><![CDATA[<p>für 4 Personen</p>]]></description>
+            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
+            <guid isPermaLink="false">cc2ce7f6-005e-4cde-abdd-a4fe7c891005</guid>
+            <pubDate>Wed, 03 Aug 2016 09:53:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>für 4 Personen als Vorspeise</p>]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">4d00f187-3e08-441d-8c08-caddffbf712c</guid>
             <pubDate>Mon, 11 Jul 2016 12:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bolley Burger]]></title>
-            <description><![CDATA[<p>für 4 Personen</p>]]></description>
-            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
-            <guid isPermaLink="false">cc2ce7f6-005e-4cde-abdd-a4fe7c891005</guid>
-            <pubDate>Sat, 23 Apr 2016 19:53:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bunter Cous Cous mit Mistkratzerli]]></title>
