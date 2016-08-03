@@ -4,8 +4,15 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 10:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 10:07:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b45cc07144ce6037848661233b6c1b7/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7959c685-a1d6-4180-be22-da9a1a56b2c2.jpg&width=600">]]></description>
+            <link>https://app.thegrid.io/posts/55b3e7e5-0a8a-4e63-b8f9-a40002be3fdd/edit</link>
+            <guid isPermaLink="false">9b26f9dc-904f-4b1d-9559-680e373beba0</guid>
+            <pubDate>Wed, 03 Aug 2016 10:06:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Käsekuchen]]></title>
             <description><![CDATA[<p>1 Mürbeteig (gekauft), 200 g Zucker, 100 g Mehl, 1 Pk. Vanillezucker, 100 ml Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g Speisestärke, 1 El Puderzucker</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/fdbd2081-7687-40b7-8e2c-b202cc1d97b3/index.html</link>
             <guid isPermaLink="false">fdbd2081-7687-40b7-8e2c-b202cc1d97b3</guid>
             <pubDate>Mon, 18 Apr 2016 18:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chocolate Cookies]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a0294-0eca-40de-9603-b80400a98bc4.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
-            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
-            <pubDate>Mon, 18 Apr 2016 18:06:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
