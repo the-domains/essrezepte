@@ -5,27 +5,22 @@ inNav: false
 inLanguage: null
 keywords: []
 description: für 4 Personen als Vorspeise
-datePublished: '2016-07-12T09:47:02.065Z'
-dateModified: '2016-04-23T20:01:06.168Z'
+datePublished: '2016-08-03T09:53:27.201Z'
+dateModified: '2016-07-12T09:47:08.555Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-fur-4-personen-als-vorspeise.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: fur-4-personen-als-vorspeise/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36b20309-c7f1-40f8-a4b3-077fc065dfb1.jpg)
-
 für 4 Personen als Vorspeise
 
 500 gr Randen/Rote Beete, 200 g Quark, 50 ml Milch, 1 TL Meerrettich, 1 Apfel, 1 TL Zitrone, 1 TL süsser Senf, 1 Bund Schnittlauch, Salz, Pfeffer, Öl
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36b20309-c7f1-40f8-a4b3-077fc065dfb1.jpg)
 
 ****
 
