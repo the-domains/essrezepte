@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: für 3-4 Personen
-datePublished: '2016-08-07T06:26:31.285Z'
-dateModified: '2016-08-07T06:26:10.937Z'
+datePublished: '2016-08-07T18:10:25.071Z'
+dateModified: '2016-08-07T06:26:36.478Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-07-fur-3-4-personen.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-07-fur-3-4-personen.md
 url: fur-3-4-personen/index.html
 _type: Article
 
