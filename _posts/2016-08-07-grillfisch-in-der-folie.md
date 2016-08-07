@@ -1,35 +1,28 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: >-
-  Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind
-  Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz,
-  Pfeffer, Alufolie
-datePublished: '2016-08-07T18:26:37.543Z'
-dateModified: '2016-08-07T18:22:30.572Z'
+description: Grillfisch in der Folie
+datePublished: '2016-08-07T18:35:55.144Z'
+dateModified: '2016-08-07T18:35:54.309Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-07-grillfisch-in-der-folie.md
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: grillfisch-in-der-folie/index.html
-_type: Article
+_type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b0131f-ef10-404d-9db9-bf6928bad2b1.jpg)
+[Grillfisch in der Folie][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/904f2b2c-3687-4d30-af72-a20dbfb05aa6.jpg)
 
-Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz, Pfeffer, Alufolie
+[Spaghetti Vongole][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d716685-ecdd-425c-aca1-29884a618cc5.jpg)
 
-****
-
-**Zubereitung**
-
-1\. Den gereinigten Fisch innen mit 1-2 Scheiben Zitrone sowie einer Handvoll Petersilie und Dill füllen.****
-
-1. Den Fisch aussen mit Öl einstreichen sowie mit Salz und Pfeffer würzen.
-2. Jeden Fisch einzeln in ein Stück Alufolie verpacken und für insgesamt 15 -- 20 Minuten grillen. Dabei hin und wieder wenden.
+[0]: https://thegrid.ai/essrezepte/grillfisch-in-der-folie/
+[1]: https://thegrid.ai/essrezepte/spaghetti-vongole/
