@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-03T10:36:42.969Z'
-dateModified: '2016-08-03T10:33:59.018Z'
+description: für 4 Personen
+datePublished: '2016-08-07T06:17:24.822Z'
+dateModified: '2016-08-03T10:47:41.442Z'
 title: ''
 author: []
 via: {}
@@ -23,3 +23,16 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5682b9b-f272-4d44-8c6b-283de98297e7.jpg)
+
+für 4 Personen
+
+800 gr Hackfleisch, 1 Ei, 4 EL Semmelbrösel, 4 Brötchen, 1 Tomate, frische Basilikumblätter, 4 Scheiben Käse nach Wahl, 4 Salatblätter, 4 Zucchini, Salz, Pfeffer
+
+****
+
+****
+
+**Zubereitung**Mische das Hackfleisch mit den Semmelbrösel, dem Ei und würze es mit Salz und Pfeffer. Forme 4 Frikadellen (ca. 200 gr Hackfleisch pro Person) und brate sie ca. 10 Minuten auf dem Grill oder in der Pfanne.
+
+1. Röste das Brötchen und die Zucchini ebenfalls auf dem Grill oder der Pfanne.
+2. Setze den Burger bestehend aus dem Brötchen, der Frikadelle, dem Salatblatt, Tomatenscheibe,Basilikumblätter und der Scheibe Käse zusammen und serviere die Zucchini als Beilage.
