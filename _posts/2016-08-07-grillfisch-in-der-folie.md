@@ -8,8 +8,8 @@ description: >-
   Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind
   Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz,
   Pfeffer, Alufolie
-datePublished: '2016-08-07T19:01:09.724Z'
-dateModified: '2016-08-07T18:26:46.673Z'
+datePublished: '2016-08-07T19:01:41.665Z'
+dateModified: '2016-08-07T19:01:36.150Z'
 title: ''
 author: []
 via: {}
@@ -33,7 +33,8 @@ Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind Saibli
 
 **Zubereitung**
 
-1\. Den gereinigten Fisch innen mit 1-2 Scheiben Zitrone sowie einer Handvoll Petersilie und Dill füllen.****
+1\. Den gereinigten Fisch innen mit 1-2 Scheiben Zitrone sowie einer Handvoll Petersilie und Dill füllen.
 
-1. Den Fisch aussen mit Öl einstreichen sowie mit Salz und Pfeffer würzen.
-2. Jeden Fisch einzeln in ein Stück Alufolie verpacken und für insgesamt 15 -- 20 Minuten grillen. Dabei hin und wieder wenden.
+2\. Den Fisch aussen mit Öl einstreichen sowie mit Salz und Pfeffer würzen.
+
+3\. Jeden Fisch einzeln in ein Stück Alufolie verpacken und für insgesamt 15 -- 20 Minuten grillen. Dabei hin und wieder wenden.
