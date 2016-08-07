@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: für 3-4 Personen
-datePublished: '2016-08-07T18:10:38.148Z'
-dateModified: '2016-08-07T18:10:34.272Z'
+datePublished: '2016-08-07T18:13:01.169Z'
+dateModified: '2016-08-07T18:10:59.537Z'
 title: ''
 author: []
 via: {}
