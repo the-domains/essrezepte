@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: für 4 Personen als Vorspeise
-datePublished: '2016-08-07T06:32:07.392Z'
-dateModified: '2016-08-07T06:22:39.186Z'
+datePublished: '2016-08-07T18:00:35.172Z'
+dateModified: '2016-08-07T06:33:53.866Z'
 title: ''
 author: []
 via: {}
