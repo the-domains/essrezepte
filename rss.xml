@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 06:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 06:23:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/essrezepte/kasekuchen/index.html</link>
             <guid isPermaLink="false">9b26f9dc-904f-4b1d-9559-680e373beba0</guid>
             <pubDate>Wed, 03 Aug 2016 10:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spaghetti Vongole]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/essrezepte/spaghetti-vongole/index.html</link>
+            <guid isPermaLink="false">433cbf9c-4cdf-4b92-bf46-4ed73e964ba1</guid>
+            <pubDate>Wed, 03 Aug 2016 10:17:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
