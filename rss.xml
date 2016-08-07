@@ -4,8 +4,22 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 18:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 18:26:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grillfisch in der Folie]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b0131f-ef10-404d-9db9-bf6928bad2b1.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
+            <guid isPermaLink="false">d5fc7e08-d536-40a4-b0dc-550c3c699bcd</guid>
+            <pubDate>Sun, 07 Aug 2016 18:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Grillfisch in der Folie</p>]]></description>
+            <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
+            <guid isPermaLink="false">a6c766d0-7897-4ec7-8b2d-2e11b571601a</guid>
+            <pubDate>Sun, 07 Aug 2016 18:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spaghetti Vongole]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a6f05d4-15a0-46b6-b831-52d13e541eda.jpg">]]></description>
@@ -19,13 +33,6 @@
             <link>https://thegrid.ai/essrezepte/fur-3-4-personen/index.html</link>
             <guid isPermaLink="false">a5004da1-3745-4b9a-ac9c-678f41ed90fa</guid>
             <pubDate>Sun, 07 Aug 2016 18:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grillfisch in der Folie]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b0131f-ef10-404d-9db9-bf6928bad2b1.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
-            <guid isPermaLink="false">d5fc7e08-d536-40a4-b0dc-550c3c699bcd</guid>
-            <pubDate>Sun, 07 Aug 2016 18:08:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Randen/Rote Beete mit Meerrettich Dip]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/essrezepte/kasekuchen/index.html</link>
             <guid isPermaLink="false">9b26f9dc-904f-4b1d-9559-680e373beba0</guid>
             <pubDate>Wed, 03 Aug 2016 10:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/27463586027b8ff61a08679ed80a313e/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9ec7a736-8925-40fe-99c7-135f565392e3.jpg&width=450">]]></description>
-            <link>https://app.thegrid.io/posts/433cbf9c-4cdf-4b92-bf46-4ed73e964ba1/edit</link>
-            <guid isPermaLink="false">ac1aff0c-4fbc-4d3d-86b2-1c4657d470a5</guid>
-            <pubDate>Wed, 03 Aug 2016 10:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
