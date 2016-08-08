@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T19:55:15.731Z'
+datePublished: '2016-08-08T19:56:00.912Z'
 sourcePath: _posts/2016-08-08-grillfisch-in-der-folie.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T19:55:15.175Z'
+dateModified: '2016-08-08T19:56:00.279Z'
 title: ''
 publisher: {}
 description: Grillfisch in der Folie
