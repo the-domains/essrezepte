@@ -1,33 +1,29 @@
 ---
+datePublished: '2016-08-08T19:11:15.239Z'
+sourcePath: _posts/2016-08-03-1-murbeteig-gekauft-200-g-zucker-100-g-mehl-1-pk-vanil.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-08T19:11:14.753Z'
+title: ''
+publisher: {}
 description: >-
   1 Mürbeteig (gekauft), 200 g Zucker, 100 g Mehl, 1 Pk. Vanillezucker, 100 ml
   Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene
   Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g
   Speisestärke, 1 El Puderzucker
-datePublished: '2016-08-03T10:27:51.941Z'
-dateModified: '2016-08-03T10:27:43.168Z'
-author: []
-title: ''
-via: {}
-sourcePath: _posts/2016-08-03-1-murbeteig-gekauft-200-g-zucker-100-g-mehl-1-pk-vanil.md
-authors: []
-publisher:
-  name: app.thegrid.io
-  domain: app.thegrid.io
-  url: null
-  favicon: null
+inLanguage: null
+inNav: false
 starred: false
 url: kasekuchen/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b45cc07144ce6037848661233b6c1b7/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7959c685-a1d6-4180-be22-da9a1a56b2c2.jpg&width=600)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8873037427efe817d04b6e6b40216508a7d192f.jpg)
 
 1 Mürbeteig (gekauft), 200 g Zucker, 100 g Mehl, 1 Pk. Vanillezucker, 100 ml Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g Speisestärke, 1 El Puderzucker
 
