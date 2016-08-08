@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-08T19:49:11.175Z'
+datePublished: '2016-08-08T19:50:13.533Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T19:48:58.492Z'
+dateModified: '2016-08-08T19:50:12.950Z'
 title: Grillfisch in der Folie
 publisher: {}
 description: >-
   Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind
   Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz,
   Pfeffer, Alufolie
-starred: false
 sourcePath: _posts/2016-08-08-grillfisch-in-der-folie.md
+starred: false
 url: grillfisch-in-der-folie/index.html
 _type: Blurb
 
