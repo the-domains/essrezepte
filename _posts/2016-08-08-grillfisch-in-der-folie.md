@@ -1,22 +1,19 @@
 ---
-datePublished: '2016-08-08T19:50:13.533Z'
+datePublished: '2016-08-08T19:55:15.731Z'
+sourcePath: _posts/2016-08-08-grillfisch-in-der-folie.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T19:50:12.950Z'
-title: Grillfisch in der Folie
+dateModified: '2016-08-08T19:55:15.175Z'
+title: ''
 publisher: {}
-description: >-
-  Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind
-  Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz,
-  Pfeffer, Alufolie
-sourcePath: _posts/2016-08-08-grillfisch-in-der-folie.md
+description: Grillfisch in der Folie
 starred: false
 url: grillfisch-in-der-folie/index.html
 _type: Blurb
 
 ---
-# Grillfisch in der Folie
+Grillfisch in der Folie
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad0365a0-0b07-488e-a6ea-02c24a13bd81.jpg)
 
 Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind Saibling, Dorade oder Bachforelle, 1 Zitrone, Petersilie, Dill, Öl, Salz, Pfeffer, Alufolie
@@ -29,5 +26,5 @@ Pro Person einen ganzen ausgenommenen Fisch. Sehr lecker zum Grillen sind Saibli
 
 3\. Jeden Fisch einzeln in ein Stück Alufolie verpacken und für insgesamt 15 -- 20 Minuten grillen. Dabei hin und wieder wenden.
 
-# Spaghetti Vongole
+Spaghetti Vongole
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57932af3-cf58-42e1-a38c-185dc8d3791a.jpg)
