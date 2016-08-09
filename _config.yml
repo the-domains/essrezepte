@@ -24,7 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - name: Fischiges
+    id: 3cb7936a-436a-44ce-a0f4-3f0221dd2d4a
+    type: content
 favicon: null
 title: Essrezepte
 description: '  '
