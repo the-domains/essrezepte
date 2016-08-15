@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-08-15T17:28:01.995Z'
-isBasedOnUrl: 'https://thegrid.ai/essrezepte/the-bolley-burger/'
+datePublished: '2016-08-15T17:28:19.208Z'
 author: []
 via: {}
-dateModified: '2016-08-15T17:27:44.514Z'
+dateModified: '2016-08-15T17:28:18.040Z'
 title: Fleischiges
 publisher: {}
 description: The Bolley Burger
-starred: false
 sourcePath: _posts/2016-08-15-fleischiges.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: fleischiges/index.html
 _type: MediaObject
 
 ---
