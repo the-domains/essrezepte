@@ -31,6 +31,9 @@ navigation:
   - name: Fischiges
     id: 3cb7936a-436a-44ce-a0f4-3f0221dd2d4a
     type: content
+  - name: Süsses
+    id: 3bd039ad-39e1-4ecb-8366-2cb0c15a7fc8
+    type: content
 favicon: null
 title: Essrezepte
 description: '  '
