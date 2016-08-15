@@ -28,6 +28,9 @@ navigation:
   - name: Fischiges
     id: 3cb7936a-436a-44ce-a0f4-3f0221dd2d4a
     type: content
+  - name: Fleischiges
+    id: 79f0e40e-9028-4f2b-a267-b93c526714f6
+    type: content
 favicon: null
 title: Essrezepte
 description: '  '
