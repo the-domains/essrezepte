@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Fleischiges
+    id: 79f0e40e-9028-4f2b-a267-b93c526714f6
+    type: content
 favicon: null
 title: Essrezepte
 description: '  '
