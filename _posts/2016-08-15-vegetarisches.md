@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-08-15T18:04:57.784Z'
-isBasedOnUrl: 'https://thegrid.ai/essrezepte/fur-4-personen-als-vorspeise/'
+datePublished: '2016-08-15T18:07:24.842Z'
 author: []
 via: {}
-dateModified: '2016-08-15T18:04:19.688Z'
+dateModified: '2016-08-15T18:07:24.078Z'
 title: Vegetarisches
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-15-vegetarisches.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: vegetarisches/index.html
 _type: MediaObject
 
 ---
