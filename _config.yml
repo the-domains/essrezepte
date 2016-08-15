@@ -34,6 +34,9 @@ navigation:
   - name: Süsses
     id: 3bd039ad-39e1-4ecb-8366-2cb0c15a7fc8
     type: content
+  - name: Vegetarisches
+    id: 6a2b7f60-55bd-430b-a307-751a47abb550
+    type: content
 favicon: null
 title: Essrezepte
 description: '  '
