@@ -1,34 +1,28 @@
 ---
+datePublished: '2016-08-16T17:29:23.041Z'
+sourcePath: _posts/2016-08-07-spaghetti-vongole.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: >-
-  500 g Spaghetti, 800 g Vongole, 50 ml Weißwein, 100 g Cherrytomaten, 2
-  Knoblauchzehen, 1 Bund Petersilie, 50 ml Öl, 100 ml Wasser, Pfeffer
-datePublished: '2016-08-07T18:16:27.209Z'
-dateModified: '2016-08-07T18:16:17.025Z'
-title: ''
 author: []
 via: {}
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-08-16T17:29:22.054Z'
+title: ''
+publisher: {}
+description: für 3-4 Personen
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-08-07-spaghetti-vongole.md
 url: spaghetti-vongole/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a6f05d4-15a0-46b6-b831-52d13e541eda.jpg)
 
-500 g Spaghetti, 800 g Vongole, 50 ml Weißwein, 100 g Cherrytomaten, 2 Knoblauchzehen, 1 Bund Petersilie, 50 ml Öl, 100 ml Wasser, Pfeffer
+für 3-4 Personen
 
-****
+500 g Spaghetti, 800 g Vongole, 50 ml Weißwein, 100 g Cherrytomaten, 2 Knoblauchzehen, 1 Bund Petersilie, 50 ml Öl, 100 ml Wasser, Pfeffer
 
 **Zubereitung**
 
