@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 17:42:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">d5fc7e08-d536-40a4-b0dc-550c3c699bcd</guid>
             <pubDate>Mon, 08 Aug 2016 19:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bunter Cous Cous mit Mistkratzerli]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e01461fcf6f984242260a07822d0cc78355992fe.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/ad679132-2433-4f82-ba3e-c6a3d32c53be/index.html</link>
+            <guid isPermaLink="false">ad679132-2433-4f82-ba3e-c6a3d32c53be</guid>
+            <pubDate>Tue, 16 Aug 2016 17:42:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chili Tortilla]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/spaghetti-vongole/index.html</link>
             <guid isPermaLink="false">4d215be0-8577-40b8-8414-350fdf1df6d9</guid>
             <pubDate>Tue, 16 Aug 2016 17:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hefekuchen mit Johannisbeeren]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5c3051e6314677d7d38f40026e65bc0cf060e85.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/fdbd2081-7687-40b7-8e2c-b202cc1d97b3/index.html</link>
-            <guid isPermaLink="false">fdbd2081-7687-40b7-8e2c-b202cc1d97b3</guid>
-            <pubDate>Mon, 08 Aug 2016 19:14:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
