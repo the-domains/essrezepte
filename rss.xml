@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 17:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 17:43:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">d5fc7e08-d536-40a4-b0dc-550c3c699bcd</guid>
             <pubDate>Mon, 08 Aug 2016 19:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hefekuchen mit Johannisbeeren]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5c3051e6314677d7d38f40026e65bc0cf060e85.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/fdbd2081-7687-40b7-8e2c-b202cc1d97b3/index.html</link>
+            <guid isPermaLink="false">fdbd2081-7687-40b7-8e2c-b202cc1d97b3</guid>
+            <pubDate>Tue, 16 Aug 2016 17:43:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bunter Cous Cous mit Mistkratzerli]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/versunkener-apfelkuchen/index.html</link>
             <guid isPermaLink="false">6ef37855-93a0-42e9-96b5-9fa1a29210f9</guid>
             <pubDate>Tue, 16 Aug 2016 17:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spaghetti Vongole]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a6f05d4-15a0-46b6-b831-52d13e541eda.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/spaghetti-vongole/index.html</link>
-            <guid isPermaLink="false">4d215be0-8577-40b8-8414-350fdf1df6d9</guid>
-            <pubDate>Tue, 16 Aug 2016 17:29:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
