@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 17:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 17:39:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">d5fc7e08-d536-40a4-b0dc-550c3c699bcd</guid>
             <pubDate>Mon, 08 Aug 2016 19:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chocolate Cookies]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a0294-0eca-40de-9603-b80400a98bc4.jpg">]]></description>
+            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
+            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
+            <pubDate>Tue, 16 Aug 2016 17:39:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Käsekuchen]]></title>
