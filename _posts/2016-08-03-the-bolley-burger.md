@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T17:34:37.591Z'
+datePublished: '2016-08-22T17:19:37.110Z'
 sourcePath: _posts/2016-08-03-the-bolley-burger.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-16T17:34:36.605Z'
-title: ''
+dateModified: '2016-08-22T17:19:36.445Z'
+title: The Bolley Burger
 publisher: {}
 description: für 4 Personen
 inLanguage: null
@@ -18,6 +18,7 @@ url: the-bolley-burger/index.html
 _type: Article
 
 ---
+# The Bolley Burger
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5682b9b-f272-4d44-8c6b-283de98297e7.jpg)
 
 für 4 Personen
