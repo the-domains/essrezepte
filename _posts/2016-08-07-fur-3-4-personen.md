@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T17:33:07.869Z'
+datePublished: '2016-08-22T17:18:33.312Z'
 sourcePath: _posts/2016-08-07-fur-3-4-personen.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-16T17:33:07.120Z'
-title: ''
+dateModified: '2016-08-22T17:18:32.760Z'
+title: Schwarzenhaseler Grüne Sauce
 publisher: {}
 description: für 3-4 Personen
 inLanguage: null
@@ -18,6 +18,7 @@ url: fur-3-4-personen/index.html
 _type: Article
 
 ---
+# Schwarzenhaseler Grüne Sauce
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03a82862-3bcc-4d19-b44b-97de615786a4.jpg)
 
 für 3-4 Personen
