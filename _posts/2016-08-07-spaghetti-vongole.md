@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T17:29:23.041Z'
+datePublished: '2016-08-22T17:17:38.744Z'
 sourcePath: _posts/2016-08-07-spaghetti-vongole.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-16T17:29:22.054Z'
-title: ''
+dateModified: '2016-08-22T17:17:38.051Z'
+title: Spaghetti Vongole
 publisher: {}
 description: für 3-4 Personen
 inLanguage: null
@@ -18,6 +18,7 @@ url: spaghetti-vongole/index.html
 _type: Article
 
 ---
+# Spaghetti Vongole
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a6f05d4-15a0-46b6-b831-52d13e541eda.jpg)
 
 für 3-4 Personen
