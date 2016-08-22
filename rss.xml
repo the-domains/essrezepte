@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 17:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 17:20:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">d5fc7e08-d536-40a4-b0dc-550c3c699bcd</guid>
             <pubDate>Mon, 22 Aug 2016 17:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Käsekuchen]]></title>
+            <description><![CDATA[<article><h1>Käsekuchen</h1><p>1 Mürbeteig (gekauft), 200 g Zucker, 100 g Mehl, 1 Pk. Vanillezucker, 100 ml Milch, 5 Eier (Kl. M, getrennt), 800 g Magerquark, 1 Tl fein abgeriebene Bio-Limettenschale, 3 El Limettensaft, 250 ml Schlagsahne, Salz, 30 g Speisestärke, 1 El Puderzucker</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8873037427efe817d04b6e6b40216508a7d192f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/essrezepte/kasekuchen/index.html</link>
+            <guid isPermaLink="false">9b26f9dc-904f-4b1d-9559-680e373beba0</guid>
+            <pubDate>Mon, 22 Aug 2016 17:20:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Bolley Burger]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/341a6bf9-f024-46d8-b6ed-634b7ea9615d/index.html</link>
             <guid isPermaLink="false">341a6bf9-f024-46d8-b6ed-634b7ea9615d</guid>
             <pubDate>Tue, 16 Aug 2016 17:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chocolate Cookies]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a0294-0eca-40de-9603-b80400a98bc4.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
-            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
-            <pubDate>Tue, 16 Aug 2016 17:39:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
