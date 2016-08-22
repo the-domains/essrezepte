@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T17:33:59.344Z'
+datePublished: '2016-08-22T17:19:17.383Z'
 sourcePath: _posts/2016-08-07-fur-4-personen-als-vorspeise.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-16T17:33:58.037Z'
-title: ''
+dateModified: '2016-08-22T17:19:16.841Z'
+title: Randen/Rote Beete mit Meerrettich Dip
 publisher: {}
 description: für 4 Personen als Vorspeise
 inLanguage: null
@@ -18,6 +18,7 @@ url: fur-4-personen-als-vorspeise/index.html
 _type: Article
 
 ---
+# Randen/Rote Beete mit Meerrettich Dip
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d7ba009-79ec-4498-8f77-e59782180605.jpg)
 
 für 4 Personen als Vorspeise
