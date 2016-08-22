@@ -4,7 +4,7 @@
         <description><![CDATA[Essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 17:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 17:19:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">d5fc7e08-d536-40a4-b0dc-550c3c699bcd</guid>
             <pubDate>Mon, 22 Aug 2016 17:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Randen/Rote Beete mit Meerrettich Dip]]></title>
+            <description><![CDATA[<article><h1>Randen/Rote Beete mit Meerrettich Dip</h1><p>für 4 Personen als Vorspeise</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d7ba009-79ec-4498-8f77-e59782180605.jpg"></article>]]></description>
+            <link>https://thegrid.ai/essrezepte/fur-4-personen-als-vorspeise/index.html</link>
+            <guid isPermaLink="false">343f986b-bf4b-4110-a138-2b7f538c3bb0</guid>
+            <pubDate>Mon, 22 Aug 2016 17:19:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schwarzenhaseler Grüne Sauce]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/essrezepte/kasekuchen/index.html</link>
             <guid isPermaLink="false">9b26f9dc-904f-4b1d-9559-680e373beba0</guid>
             <pubDate>Tue, 16 Aug 2016 17:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bolley Burger]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5682b9b-f272-4d44-8c6b-283de98297e7.jpg">]]></description>
-            <link>https://thegrid.ai/essrezepte/the-bolley-burger/index.html</link>
-            <guid isPermaLink="false">350d7515-413e-4d86-9466-d290521d6417</guid>
-            <pubDate>Tue, 16 Aug 2016 17:34:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
