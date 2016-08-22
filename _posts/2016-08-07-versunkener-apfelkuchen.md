@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T17:32:00.612Z'
+datePublished: '2016-08-22T17:18:10.876Z'
 sourcePath: _posts/2016-08-07-versunkener-apfelkuchen.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-16T17:31:59.709Z'
-title: ''
+dateModified: '2016-08-22T17:18:10.156Z'
+title: Versunkener Apfelkuchen
 publisher: {}
 description: >-
   125 g Margarine, 125 g Zucker, 3 Eier, 200 g Mehl, 2 EL Backpulver, 4 Äpfel,
@@ -20,6 +20,7 @@ url: versunkener-apfelkuchen/index.html
 _type: Article
 
 ---
+# Versunkener Apfelkuchen
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f7c3b31-be6f-4d63-8ade-09012c566b5f.jpg)
 
 125 g Margarine, 125 g Zucker, 3 Eier, 200 g Mehl, 2 EL Backpulver, 4 Äpfel, Puderzucker
