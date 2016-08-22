@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T17:19:37.110Z'
+datePublished: '2016-08-22T17:24:09.981Z'
 sourcePath: _posts/2016-08-03-the-bolley-burger.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T17:19:36.445Z'
+dateModified: '2016-08-22T17:24:09.338Z'
 title: The Bolley Burger
 publisher: {}
 description: für 4 Personen
