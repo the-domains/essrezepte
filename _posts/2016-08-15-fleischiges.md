@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-09-01T17:09:16.397Z'
+datePublished: '2016-09-01T17:11:33.055Z'
 sourcePath: _posts/2016-08-15-fleischiges.md
 inFeed: false
 hasPage: true
-author: []
+author:
+  - {}
 via: {}
-dateModified: '2016-09-01T17:09:15.869Z'
+dateModified: '2016-09-01T17:11:32.194Z'
 title: Fleischiges
 publisher: {}
-description: The Bolley Burger
+description: ''
 starred: false
 url: fleischiges/index.html
 _type: MediaObject
@@ -17,7 +18,7 @@ _type: MediaObject
 # Fleischiges
 
 ## The Bolley Burger
-![The Bolley Burger](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1ce3903-8222-45bf-a275-b85f633f7b89.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1ce3903-8222-45bf-a275-b85f633f7b89.jpg)
 
 ## Bunter Cous Cous mit Mistkratzerli
 ![Bunter Cous Cous mit Mistkratzerli](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f94e0387-7059-417c-ab48-51ce6fcd1a01.jpg)
