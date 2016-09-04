@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T17:42:48.271Z'
+datePublished: '2016-09-01T17:50:25.868Z'
 sourcePath: _posts/2016-08-15-fleischiges.md
 inFeed: false
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - {}
 via:
   name: 'https://thegrid.ai/essrezepte/the-bolley-burger'
-dateModified: '2016-09-01T17:42:47.643Z'
+dateModified: '2016-09-01T17:50:24.855Z'
 title: Fleischiges
 publisher: {}
 description: ''
