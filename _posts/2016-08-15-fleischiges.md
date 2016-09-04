@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T17:29:53.706Z'
+datePublished: '2016-09-01T17:09:16.397Z'
 sourcePath: _posts/2016-08-15-fleischiges.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T17:29:53.204Z'
+dateModified: '2016-09-01T17:09:15.869Z'
 title: Fleischiges
 publisher: {}
 description: The Bolley Burger
