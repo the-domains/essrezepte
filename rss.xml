@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Essrezepte]]></title>
-        <description><![CDATA[Essrezepte]]></description>
+        <title><![CDATA[essrezepte]]></title>
+        <description><![CDATA[essrezepte]]></description>
         <link>https://thegrid.ai/essrezepte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 17:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 17:59:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/essrezepte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grillfisch in der Folie]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/essrezepte/grillfisch-in-der-folie/index.html</link>
             <guid isPermaLink="false">d5fc7e08-d536-40a4-b0dc-550c3c699bcd</guid>
             <pubDate>Mon, 22 Aug 2016 17:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chocolate Cookies]]></title>
+            <description><![CDATA[<article><h1>Chocolate Cookies</h1><p>Ergibt ca. 20 Stück</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a0294-0eca-40de-9603-b80400a98bc4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
+            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
+            <pubDate>Thu, 01 Sep 2016 17:59:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spaghetti Vongole]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/essrezepte/341a6bf9-f024-46d8-b6ed-634b7ea9615d/index.html</link>
             <guid isPermaLink="false">341a6bf9-f024-46d8-b6ed-634b7ea9615d</guid>
             <pubDate>Mon, 22 Aug 2016 17:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chocolate Cookies]]></title>
-            <description><![CDATA[<article><h1>Chocolate Cookies</h1><p>Ergibt ca. 20 Stück</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a0294-0eca-40de-9603-b80400a98bc4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/essrezepte/zutaten/index.html</link>
-            <guid isPermaLink="false">71fdb3d1-ca5b-45b3-b564-47eeefd4e6bc</guid>
-            <pubDate>Mon, 22 Aug 2016 17:20:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Käsekuchen]]></title>
